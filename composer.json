@@ -11,6 +11,7 @@
         }
     ],
     "require": {
+        "composer/installers": "~1.0",
         "php": ">=5.0.0",
         "mikehaertl/php-shellcommand": "^1.0.2",
         "mikehaertl/php-tmpfile": "^1.0.0"
